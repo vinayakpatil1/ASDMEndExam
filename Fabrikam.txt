@@ -6,7 +6,9 @@ and shopping.
 Problem Defination:-
 	
 	Buid an application which manages the customers and information of the products.
-
+Customer first fill the registration form and gives details like name,city,address etc.
+Customer can see all the products and its details like price ,rating ect.
+Customer will give feedback about service and products.
 
 Funtional Requirements:-
 

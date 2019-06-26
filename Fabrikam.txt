@@ -1,0 +1,23 @@
+Problen Statement:-
+	
+		To build an appliction to minimize the gab of knowing about products
+and shopping.
+		
+Problem Defination:-
+	
+	Buid an application which manages the customers and information of the products.
+
+
+Funtional Requirements:-
+
+1.Display all information about the products
+2.Feedback management system for customer
+3.Leave management system for employees
+4.Billing
+5.order Processing
+
+Non-Funtional Requirements:-
+1.Security
+2.Performance
+3.Maintainable
+
